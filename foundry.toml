@@ -8,7 +8,7 @@ auto_detect_remappings = false
 [dependencies]
 forge-std = "1.11.0"
 "@openzeppelin-contracts" = "5.5.0-rc.1"
-"projA" = { version = "1", git = "https://github.com/heueristik/projA.git", branch = "main" }
+"projA" = { version = "1", git = "https://github.com/heueristik/projA.git", branch = "feature/reproduce-bug" }
 
 [soldeer]
 recursive_deps = true
