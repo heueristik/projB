@@ -7,7 +7,7 @@ auto_detect_remappings = false
 
 [dependencies]
 forge-std = "1.14.0"
-"@openzeppelin-contracts" = "5.5.0-rc.1"
+"@openzeppelin-contracts" = "5.5.0"
 "projA" = { version = "1", git = "https://github.com/heueristik/projA.git", branch = "main", project_root = "contracts"}
 
 [soldeer]
